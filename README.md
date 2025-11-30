@@ -1,12 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=700&height=70&lines=Salaan%2C+Ku+Soo+Dhawoow+GitHub-kayga!;Waxaan+Ahay+Mukhtaar+Carab.;Software+Engineer+%26+Web+Developer+Somali+Ah." />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=700&height=70&lines=Salaan%2C+Ku+Soo+Dhawoow+GitHub-kayga!;Waxaan+Ahay+Mukhtaar+Carab.;Software+Engineer+%26+Web+Developer+Somaliland+Ah." />
 </p>
 
 ---
 
+<!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mukhtaarcarab/Mukhtaarcarab/main/mukhtaar.jpg" width="200" style="border-radius:50%" />
+  <img src="YOUR-IMAGE-LINK-HERE" width="180" style="border-radius:50%; border:4px solid #00C0FF" />
 </p>
 
 ---
@@ -18,8 +19,8 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 - 🔥 Hadda waxaan diiradda saaray: *Frontend + APIs + TailwindCSS + React*
 - 🚀 Hadafkeyga: Inaan noqdo *Full Stack Engineer buuxa*
 - 🤝 Diyaar u ah: Inaan ka shaqeeyo projectyo wadajir ah
-- 📍 Joogitaanka: *Soomaaliya*
-- 📧 Email: *your-email@example.com*
+- 📍 Joogitaanka: *Soomaaliland -hargeisa*
+- 📧 Email: *mukhtaaarcarab938@gmail.com*
 
 ---
 
@@ -66,23 +67,13 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 <p align="center">
 
   <!-- Facebook -->
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/mukhtaar.xuseensaalax" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="50">
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/saalaxcarap0?igsh=ZmVkMm8wNGdiZXcy" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50">
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://tiktok.com/@YOUR-TIKTOK" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" height="50">
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/YOUR-WHATSAPP-NUMBER" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50">
   </a>
 
 </p>
