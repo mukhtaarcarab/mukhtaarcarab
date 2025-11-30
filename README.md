@@ -12,8 +12,8 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 - 🔥 Hadda waxaan diiradda saaray: *Frontend + APIs + TailwindCSS + React*
 - 🚀 Hadafkeyga: Inaan noqdo *Full Stack Engineer buuxa*
 - 🤝 Diyaar u ah: Inaan ka shaqeeyo projectyo wadajir ah
-- 📍 Joogitaanka: *Soomaaliya*
-- 📧 Email: *your-email@example.com*
+- 📍 Joogitaanka: *Soomaaliland hargeisa*
+- 📧 Email: *mukhtaarcarab938@gmail.com*
 
 ---
 
@@ -43,7 +43,7 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukhtaarcarab&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://raw.githubusercontent.com/Mukhtaarcarab/Mukhtaarcarab/main/mukhtaar.jpg" width="200" style="border-radius:50%" />
 </p>
 
 ---
