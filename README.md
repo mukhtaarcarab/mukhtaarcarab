@@ -5,9 +5,8 @@
 
 ---
 
-<!-- Profile Image -->
 <p align="center">
-  <img src="YOUR-IMAGE-LINK-HERE" width="180" style="border-radius:50%; border:4px solid #00C0FF" />
+  <img src="https://raw.githubusercontent.com/Mukhtaarcarab/Mukhtaarcarab/main/mukhtaar.jpg" width="200" style="border-radius:50%" />
 </p>
 
 ---
