@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner Static oo Qoraalka Cad -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=700&height=70&lines=Salaan%2C+Ku+Soo+Dhawoow+GitHub-kayga!;Waxaan+Ahay+Mukhtaar+Carab.;Software+Engineer+%26+Web+Developer+Somaliland+Ah." />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C0FF,100:090979&height=70&text=Salaan,+Ku+Soo+Dhawoow+GitHub-kayga!+Waxaan+Ahay+Mukhtaar+Carab.+Software+Engineer+%26+Web+Developer+Somaliland+Ah.&fontSize=22&fontColor=ffffff&fontAlignY=35" alt="Banner" />
 </p>
 
 ---
