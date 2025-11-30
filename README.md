@@ -1,46 +1,71 @@
-<h1 align="center">👋 Salaan! Ku soo dhawoow GitHub-ka Mukhtaar Carab</h1>
-<h3 align="center">💻 Software Engineer & Web Developer ka socda Soomaaliya</h3>
-
----
-
-## 🌟 Ku Saabsan Aniga
-Waxaan ahay **developer Soomaaliyeed** oo xiiseeya dhismaha websitiyo casri ah, barnaamijyo fudud loo isticmaali karo, iyo farsamooyinka AI-ga soo kordhaya. Waxaan jecelahay inaan abuuro wax muuqaal ahaan qurux badan, si degdeg ah u shaqeeya, ugana jawaaba baahida dadka isticmaala.
-
-- 🔭 Hadda waxaan ka shaqeynayaa: **Web Projects & API Integrations**
-- 🌱 Waxaan baranayaa: **React JS, TailwindCSS, Node.js, Git & GitHub**
-- 🤝 Waxaan diyaar u ahay: Inaan ka shaqeeyo mashruucyo wadajir ah
-- 📫 Email: **your-email@example.com**
-- 😄 Joogitaanka: **Somalia**
-
----
-
-## 🚀 Aqoontayda & Qalabka Aan Adeegsado
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,git,vscode,figma" />
-</p>
-
----
-
-## 📊 Tirakoobka GitHub-kayga
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukhtaar-Carab&show_icons=true&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtaar-Carab&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtaar-Carab&layout=compact&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=800&color=00C0FF&center=true&vCenter=true&width=700&height=70&lines=Salaan%2C+Ku+Soo+Dhawoow+GitHub-kayga!;Waxaan+Ahay+Mukhtaar+Carab.;Software+Engineer+%26+Web+Developer+Somali+Ah." />
 </p>
 
 ---
 
-## 🔗 Nala Soo Xiriir
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<!-- About Me -->
+## 🧑‍💻 *Ku Saabsan Aniga*
+Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga ah, barnaamijyada fudud, iyo mashaariicda API-ga. Had iyo jeer waxaan jecelahay inaan abuuro *design nadiif ah, degdeg ah, qaab muuqaal ah oo soo jiidasho leh*.
+
+- 🔥 Hadda waxaan diiradda saaray: *Frontend + APIs + TailwindCSS + React*
+- 🚀 Hadafkeyga: Inaan noqdo *Full Stack Engineer buuxa*
+- 🤝 Diyaar u ah: Inaan ka shaqeeyo projectyo wadajir ah
+- 📍 Joogitaanka: *Soomaaliya*
+- 📧 Email: *your-email@example.com*
+
+---
+
+<!-- Skills -->
+## 🚀 *Aqoontayda & Qalabka Aan Adeegsado*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,github,git,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-## ✨ Hadal Dhamaad
-Waxaan rumeysnahay in **barashada aan joogsan** iyo **hal-abuurka aan dhamaad lahayn** ay yihiin wadada horumarka.  
-Waad ku mahadsan tahay booqashadaada — soo laabo mar kasta! 🚀
+<!-- Badges -->
+## 🏅 *Badges & Level-ka Aan Joogo*
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Somali-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code_Lover-100%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-React-orange?style=for-the-badge" />
+</p>
+
+---
+
+<!-- Stats -->
+## 📊 *Xogta GitHub-kayga*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukhtaarcarab&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtaarcarab&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukhtaarcarab&theme=tokyonight&hide_border=true" height="200" />
+</p>
+
+---
+
+<!-- Quote -->
+## ✨ *Hal-ku-dhigga Aan Aaminsanahay*
+> *“Horumarka dhabta ahi wuxuu ka yimaadaa barasho joogto ah.”*  
+> — Mukhtaar Carab
+
+---
+
+<!-- Contact -->
+## 🔗 *Nala Soo Xiriir*
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="50"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="50"></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C0FF,100:090979&height=120&section=footer" />
+</p>
