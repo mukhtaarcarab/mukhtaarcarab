@@ -58,9 +58,9 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 <!-- Contact -->
 ## 🔗 *Nala Soo Xiriir*
 <p align="center">
-  <a href="https://www.facebook.com/mukhtaar.xuseensaalax"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="50"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="50"></a>
+  <a href="https://www.facebook.com/mukhtaar.xuseensaalax"><img src="https://skillicons.dev/icons?i=facebook" height="50"></a>
+  <a href="https://www.instagram.com/saalaxcarap0?igsh=ZmVkMm8wNGdiZXcy"><img src="https://skillicons.dev/icons?i=instagram" height="50"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tiktok" height="50"></a>
 </p>
 
 ---
