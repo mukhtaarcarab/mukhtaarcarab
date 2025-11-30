@@ -65,7 +65,7 @@ Waxaan ahay developer Soomaaliyeed oo ku shaqeeya dhisidda websitiyada casriga a
 <p align="center">
 
   <!-- Instagram -->
-  <a href="[https://instagram.com/YOUR-INSTAGRAM](https://www.instagram.com/saalaxcarap0?igsh=ZmVkMm8wNGdiZXcy)" target="_blank">
+  <a href="https://www.instagram.com/saalaxcarap0?igsh=ZmVkMm8wNGdiZXcy" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
 </p>
