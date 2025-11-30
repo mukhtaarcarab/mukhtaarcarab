@@ -5,6 +5,13 @@
 
 ---
 
+<!-- Profile Image -->
+<p align="center">
+  <img src="YOUR-IMAGE-LINK-HERE" width="180" style="border-radius:50%; border:4px solid #00C0FF" />
+</p>
+
+---
+
 <!-- About Me -->
 ## 🧑‍💻 *Ku Saabsan Aniga*
 Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga ah, barnaamijyada fudud, iyo mashaariicda API-ga. Had iyo jeer waxaan jecelahay inaan abuuro *design nadiif ah, degdeg ah, qaab muuqaal ah oo soo jiidasho leh*.
@@ -12,8 +19,8 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 - 🔥 Hadda waxaan diiradda saaray: *Frontend + APIs + TailwindCSS + React*
 - 🚀 Hadafkeyga: Inaan noqdo *Full Stack Engineer buuxa*
 - 🤝 Diyaar u ah: Inaan ka shaqeeyo projectyo wadajir ah
-- 📍 Joogitaanka: *Soomaaliland hargeisa*
-- 📧 Email: *mukhtaarcarab938@gmail.com*
+- 📍 Joogitaanka: *Soomaaliya*
+- 📧 Email: *your-email@example.com*
 
 ---
 
@@ -43,7 +50,7 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mukhtaarcarab/Mukhtaarcarab/main/mukhtaar.jpg" width="200" style="border-radius:50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukhtaarcarab&theme=tokyonight&hide_border=true" height="200" />
 </p>
 
 ---
@@ -55,30 +62,33 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 
 ---
 
-## 🔗 Nala Soo Xiriir
+<!-- Contact -->
+## 🔗 *Nala Soo Xiriir*
 <p align="center">
 
   <!-- Facebook -->
-  <a href="https://facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50" />
+  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="50">
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50">
   </a>
 
   <!-- TikTok -->
-  <a href="https://tiktok.com/@YOUR-TIKTOK-USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" height="50" />
+  <a href="https://tiktok.com/@YOUR-TIKTOK" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" height="50">
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/YOUR-PHONE-NUMBER" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50" />
+  <a href="https://wa.me/YOUR-WHATSAPP-NUMBER" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50">
   </a>
 
 </p>
+
+---
 
 <!-- Footer -->
 <p align="center">
