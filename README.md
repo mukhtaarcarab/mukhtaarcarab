@@ -47,19 +47,19 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 <p align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukhtaarcarab&show_icons=true&theme=react&count_private=true&hide_border=false&title_color=00C0FF&icon_color=00C0FF&text_color=ffffff&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukhtaarcarab&show_icons=true&theme=react&count_private=true&hide_border=false&title_color=00C0FF&icon_color=00C0FF&text_color=ffffff&bg_color=0D1117" width="45%" />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtaarcarab&layout=compact&theme=react&hide_border=false&title_color=00C0FF&text_color=ffffff&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukhtaarcarab&layout=compact&theme=react&hide_border=false&title_color=00C0FF&text_color=ffffff&bg_color=0D1117" width="45%" />
 
 </p>
 
 <p align="center">
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtaarcarab&theme=react&hide_border=false&background=0D1117&ring=00C0FF&fire=FFDD00&currStreakLabel=ffffff&sideLabels=ffffff" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukhtaarcarab&theme=react&hide_border=false&background=0D1117&ring=00C0FF&fire=FFDD00&currStreakLabel=ffffff&sideLabels=ffffff" width="60%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukhtaarcarab&theme=tokyonight&hide_border=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukhtaarcarab&theme=tokyonight&hide_border=true" height="200" />
 </p>
 
 ---
