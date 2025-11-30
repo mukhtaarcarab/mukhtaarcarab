@@ -45,10 +45,19 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 <!-- Stats -->
 ## 📊 *Xogta GitHub-kayga*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukhtaarcarab&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtaarcarab&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukhtaarcarab&show_icons=true&theme=react&count_private=true&hide_border=false&title_color=00C0FF&icon_color=00C0FF&text_color=ffffff&bg_color=0D1117" width="45%" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukhtaarcarab&layout=compact&theme=react&hide_border=false&title_color=00C0FF&text_color=ffffff&bg_color=0D1117" width="45%" />
+
 </p>
 
+<p align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukhtaarcarab&theme=react&hide_border=false&background=0D1117&ring=00C0FF&fire=FFDD00&currStreakLabel=ffffff&sideLabels=ffffff" width="60%" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukhtaarcarab&theme=tokyonight&hide_border=true" height="200" />
 </p>
@@ -68,14 +77,11 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/mukhtaar.xuseensaalax" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook"height="50">
+    <img src="https://skillicons.dev/icons?i=facebook" height="50">
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/saalaxcarap0?igsh=ZmVkMm8wNGdiZXcy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50">
-  </a>
-
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </p>
 
 ---
