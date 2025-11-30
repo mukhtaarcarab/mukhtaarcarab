@@ -68,7 +68,7 @@ Waxaan ahay *developer Soomaaliyeed* oo ku shaqeeya dhisidda websitiyada casriga
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/mukhtaar.xuseensaalax" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="50">
+    <img src="https://skillicons.dev/icons?i=facebook"height="50">
   </a>
 
   <!-- Instagram -->
